@@ -1,0 +1,2 @@
+print("dalu")
+prin("manasherovi")

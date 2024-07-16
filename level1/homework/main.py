@@ -1,2 +1,2 @@
 print("dalu")
-prin("manasherovi")
+print("manasherovi")
